@@ -15,14 +15,10 @@ Project created by <a href="https://github.com/Monuzz-Mkz">ANANDH-SER</a> to mak
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farhan-dqz/JulieMwol&title=Profile%20Views)
 
 ## Setup
 <div align="center">
 
-IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
-FIRST FORK THIS REPO
-THEN COPY THE LINK BELLOW AND CHANGE THE NAME `SHIBI` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
 
 Copy this link https://heroku.com/deploy?template=https://github.com/Monuzz-Mkz/ammutty_v2
 </p>
